@@ -1,2 +1,2 @@
-# classpolicy.github.io
+# classpolicy
 ClassPolicy User Guides
